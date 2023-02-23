@@ -1,3 +1,6 @@
+
+![4](https://user-images.githubusercontent.com/115736208/221039107-b23860e0-5b6f-4cc8-96e6-c8b17cf85e8e.png)
+
 ## Indice 	:bell:
 
   1. [Información general](#informacion-general)
